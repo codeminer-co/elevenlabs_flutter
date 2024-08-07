@@ -4,8 +4,8 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:elevenlabs_flutter/elevenlabs_config.dart';
-import 'package:elevenlabs_flutter/elevenlabs_types.dart';
+import 'package:elevenlabs_flutter_updated/elevenlabs_config.dart';
+import 'package:elevenlabs_flutter_updated/elevenlabs_types.dart';
 
 class ElevenLabsAPI {
   // Singleton instance

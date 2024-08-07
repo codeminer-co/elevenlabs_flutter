@@ -1,11 +1,11 @@
 import 'dart:io';
 
-import 'package:elevenlabs_flutter/elevenlabs_types.dart';
+import 'package:elevenlabs_flutter_updated/elevenlabs_config.dart';
+import 'package:elevenlabs_flutter_updated/elevenlabs_flutter.dart';
+import 'package:elevenlabs_flutter_updated/elevenlabs_types.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:elevenlabs_flutter/elevenlabs_flutter.dart';
 
-import 'package:elevenlabs_flutter/elevenlabs_config.dart';
 
 final elevenLabs = ElevenLabsAPI();
 

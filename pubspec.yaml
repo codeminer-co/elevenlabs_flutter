@@ -11,7 +11,7 @@ environment:
 dependencies:
   build_runner: ^2.4.6
   dio: ^5.2.1+1
-  envied: ^0.3.0+3
+  envied: ^0.5.4+1
   flutter:
     sdk: flutter
   json_annotation: ^4.8.1
